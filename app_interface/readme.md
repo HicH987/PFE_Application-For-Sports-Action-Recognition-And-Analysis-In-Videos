@@ -79,12 +79,12 @@ repo
 │   └── database.db
 ├── helpers
 │   ├── __init__.py
-│   ├── analyse.py
-│   ├── DeepFitClassifier.py
 │   ├── face_id.py
 │   ├── global_vars.py
 │   ├── normlization.py
+│   ├── DeepFitClassifier.py
 │   ├── prediction.py
+│   ├── analyse.py
 │   └── utils.py
 └── ui
 │   ├── __init__.py
@@ -106,8 +106,8 @@ repo
 ├── models
 │   ├── model_1_test.tflite
 │   └── model_2_test.tflite
-├── DeepTrain-AI.bat
 ├── gui.py
+├── DeepTrain-AI.bat
 ├── requirements.txt
 
 7 directories, 59 files
