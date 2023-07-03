@@ -1,22 +1,19 @@
 <div align="center">
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" />
-<br>test_model_analyze
+<br>Test Model & Analyze 
 </h1>
 <h3>Developed with the software and tools listed below</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style&logo=Python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/pandas-150458.svg?style&logo=pandas&logoColor=white" alt="pandas" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
 <img src="https://img.shields.io/badge/NumPy-013243.svg?style&logo=NumPy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/JSON-000000.svg?style&logo=JSON&logoColor=white" alt="JSON" />
 <img src="https://img.shields.io/badge/Mediapipe-00C6FF.svg?style&logo=Mediapipe&logoColor=white" alt="Mediapipe" />
 </p>
-<img src="https://img.shields.io/github/languages/top/HicH987/app_interface?style&color=5D6D7E" alt="GitHub top language" />
-<img src="https://img.shields.io/github/languages/code-size/HicH987/app_interface?style&color=5D6D7E" alt="GitHub code size in bytes" />
-<img src="https://img.shields.io/github/commit-activity/m/HicH987/app_interface?style&color=5D6D7E" alt="GitHub commit activity" />
-<img src="https://img.shields.io/github/license/HicH987/app_interface?style&color=5D6D7E" alt="GitHub license" />
+<img src="https://img.shields.io/github/languages/top/HicH987/pfe--application-for-sports-action-recognition-and-analysis-in-videos?style&color=5D6D7E" alt="GitHub top language" />
+<img src="https://img.shields.io/github/languages/code-size/HicH987/pfe--application-for-sports-action-recognition-and-analysis-in-videos?style&color=5D6D7E" alt="GitHub code size in bytes" />
+<img src="https://img.shields.io/github/commit-activity/m/HicH987/pfe--application-for-sports-action-recognition-and-analysis-in-videos?style&color=5D6D7E" alt="GitHub commit activity" />
+<img src="https://img.shields.io/github/license/HicH987/pfe--application-for-sports-action-recognition-and-analysis-in-videos?style&color=5D6D7E" alt="GitHub license" />
 </div>
 
 ---
@@ -70,10 +67,10 @@ repo
 │   ├── global_vars.py
 │   ├── normlization.py
 │   └── utils.py
-├── main.py
 ├── models
 │   ├── model_1_test.tflite
 │   └── model_2_test.tflite
+├── main.py
 └── requirements.txt
 
 2 directories, 9 files
@@ -87,10 +84,10 @@ repo
 
 | File                                                                                               | Summary                                                                                                                                                                                                                                                    |
 | ---                                                                                                | ---                                                                                                                                                                                                                                                        |
-| [global_vars.py](https://github.com/HicH987/test_model_analyze/blob/main/helpers/global_vars.py)   | The code snippet defines two important components. First, it assigns labels to various exercises. Second, it maps landmarks from the COCO pose model to specific body parts for analysis.                                                                  |
-| [normlization.py](https://github.com/HicH987/test_model_analyze/blob/main/helpers/normlization.py) | The provided code snippet contains functions to calculate Euclidean distance between vectors and normalize coordinates relative to the length of the body and the center of gravity. It also handles error checking and transformations of the input data. |
-| [DeepFitClassifier.py](https://github.com/HicH987/test_model_analyze/blob/main/helpers/DeepFitClassifier.py) | The provided code snippet defines the DeepFitClassifier class, which is used for loading and using a model to predict exercise labels based on pose keypoints. It supports both TensorFlow Lite and Keras models. |
-| [utils.py](https://github.com/HicH987/test_model_analyze/blob/main/helpers/utils.py)         | The provided code snippet includes various utility functions for pose detection and analysis. It includes functions for initializing the pose model, performing pose detection on an image, drawing landmarks on an image, extracting 2D landmarks from the results, calling normaliztion.py landmarks, making predictions using a trained classifier, and more. |
+| [global_vars.py](https://github.com/HicH987/pfe--application-for-sports-action-recognition-and-analysis-in-videos/blob/master/test_model_analyze/helpers/global_vars.py)   | The code snippet defines two important components. First, it assigns labels to various exercises. Second, it maps landmarks from the COCO pose model to specific body parts for analysis.                                                                  |
+| [normlization.py](https://github.com/HicH987/pfe--application-for-sports-action-recognition-and-analysis-in-videos/blob/master/test_model_analyze/helpers/normlization.py) | The provided code snippet contains functions to calculate Euclidean distance between vectors and normalize coordinates relative to the length of the body and the center of gravity. It also handles error checking and transformations of the input data. |
+| [DeepFitClassifier.py](https://github.com/HicH987/pfe--application-for-sports-action-recognition-and-analysis-in-videos/blob/master/test_model_analyze/helpers/DeepFitClassifier.py) | The provided code snippet defines the DeepFitClassifier class, which is used for loading and using a model to predict exercise labels based on pose keypoints. It supports both TensorFlow Lite and Keras models. |
+| [utils.py](https://github.com/HicH987/pfe--application-for-sports-action-recognition-and-analysis-in-videos/blob/master/test_model_analyze/helpers/utils.py)         | The provided code snippet includes various utility functions for pose detection and analysis. It includes functions for initializing the pose model, performing pose detection on an image, drawing landmarks on an image, extracting 2D landmarks from the results, calling normaliztion.py landmarks, making predictions using a trained classifier, and more. |
 
 </details>
 
