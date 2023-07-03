@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Arm Raise",
+    "description": "Stand with dumbbells in each hand and raise your arms out to the sides until they're parallel to the floor. Lower them back down slowly.",
+    "gif_path": "./ui/assets/exercises_gif/arm-raise.gif"
+  },
+  {
+    "name": "Basic Curl",
+    "description": "Hold a dumbbell in each hand with your palms facing forward. Keep your upper arms still and curl one arm at a time, bringing the weight up towards your shoulder. Lower it back down while keeping the other arm still. Alternate between arms.",
+    "gif_path": "./ui/assets/exercises_gif/basic-curl.gif"
+  },
+  {
+    "name": "Bench Press",
+    "description": "Lie on a bench with a barbell above your chest. Lower the barbell to your chest and then press it back up to the starting position.",
+    "gif_path": "./ui/assets/exercises_gif/bench-press.gif"
+  },
+  {
+    "name": "Biceps Curl",
+    "description": "Hold a barbell with a close grip. Stand upright and curl the barbell up towards your shoulders. Lower it back down slowly.",
+    "gif_path": "./ui/assets/exercises_gif/biceps-curl-bar.gif"
+  },
+  {
+    "name": "Bicycle Crunch",
+    "description": "Lie on your back with your hands placed on the floor next to the hips. Lift your shoulders off the ground and bring one knee towards your chest while twisting your torso. Simultaneously extend the opposite leg straight out. Alternate sides in a pedaling motion, bringing the elbow of the bent knee towards the opposite knee.",
+    "gif_path": "./ui/assets/exercises_gif/bicycle-crunch.gif"
+  },
+  {
+    "name": "Bird-dog",
+    "description": "Start on all fours with your hands under your shoulders and knees under your hips. Extend one arm forward while extending the opposite leg backward. Keep your back straight. Return to the starting position and repeat with the other arm and leg.",
+    "gif_path": "./ui/assets/exercises_gif/bird-dog.gif"
+  },
+  {
+    "name": "Deadlift",
+    "description": "Stand with a barbell in front of you, feet hip-width apart. Bend your knees and lower your torso while keeping your back straight. Grab the barbell with an overhand grip and stand up, lifting the barbell with your legs and hips. Lower it back down to the starting position.",
+    "gif_path": "./ui/assets/exercises_gif/deadlift.gif"
+  },
+  {
+    "name": "Delt Fly",
+    "description": "Stand with dumbbells in each hand. Keep your upper body upright and arms extended downwards. Open your arms out to the sides, maintaining a slight bend in your elbows. Then, bring your arms back to the starting position by closing them in front of your body.",
+    "gif_path": "./ui/assets/exercises_gif/fly.gif"
+  },
+  {
+    "name": "Leg Raise",
+    "description": "Lie on your back with your hands on the floor next to the hips. Lift your legs off the ground while keeping them straight. Lower them back down without touching the ground.",
+    "gif_path": "./ui/assets/exercises_gif/leg-raise.gif"
+  },
+  {
+    "name": "Pull-up",
+    "description": "Hang from a bar with your palms facing away from you. Pull your body up until your chin is above the bar. Lower yourself back down with control.",
+    "gif_path": "./ui/assets/exercises_gif/pullup.gif"
+  },
+  {
+    "name": "Plank",
+    "description": "Start in a push-up position with your forearms on the ground. Keep your body straight and hold this position, engaging your core muscles.",
+    "gif_path": "./ui/assets/exercises_gif/plank.gif"
+  },
+  {
+    "name": "Overhead Press",
+    "description": "Hold dumbbells at shoulder height with your palms facing forward. Press the dumbbells upward until your arms are fully extended. Lower them back down to shoulder height.",
+    "gif_path": "./ui/assets/exercises_gif/overhead-press.gif"
+  },
+  {
+    "name": "Push-up",
+    "description": "Start in a high plank position with your hands slightly wider than shoulder-width apart. Lower your body until your chest touches the ground. Push yourself back up to the starting position.",
+    "gif_path": "./ui/assets/exercises_gif/pushup.gif"
+  },
+  {
+    "name": "Russian Twist",
+    "description": "Sit on the ground with your knees bent and feet flat. Lean back slightly and lift your feet off the ground. Twist your torso to the right, then to the left, touching the ground on each side.",
+    "gif_path": "./ui/assets/exercises_gif/russian-twist.gif"
+  },
+  {
+    "name": "Squat",
+    "description": "Stand with your feet shoulder-width apart. Bend your knees and lower your body as if sitting back into a chair. Keep your chest up and back straight. Return to the starting position by pushing through your heels.",
+    "gif_path": "./ui/assets/exercises_gif/squat.gif"
+  },
+  {
+    "name": "Superman",
+    "description": "Lie face down with your arms extended in front of you. Lift your arms, chest, and legs off the ground simultaneously. Hold for a moment, then lower back down.",
+    "gif_path": "./ui/assets/exercises_gif/superman.gif"
+  }
+]
