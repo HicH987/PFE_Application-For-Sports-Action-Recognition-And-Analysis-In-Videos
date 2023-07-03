@@ -1,2 +1,5 @@
 test_model_analyze/outputs_videos/
 test_model_analyze/helpers/main_count.txt
+app_interface/ui/__pycache__
+app_interface/helpers/__pycache__
+test_model_analyze/helpers/__pycache__
