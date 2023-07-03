@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/pandas-150458.svg?style&logo=pandas&logoColor=white" alt="pandas" />
 <img src="https://img.shields.io/badge/NumPy-013243.svg?style&logo=NumPy&logoColor=white" alt="NumPy" />
 <img src="https://img.shields.io/badge/JSON-000000.svg?style&logo=JSON&logoColor=white" alt="JSON" />
-<img src="https://img.shields.io/badge/Markdown-000000.svg?style&logo=Markdown&logoColor=white" alt="Markdown" />
+<img src="https://img.shields.io/badge/Mediapipe-00C6FF.svg?style&logo=Mediapipe&logoColor=white" alt="Mediapipe" />
 </p>
 <img src="https://img.shields.io/github/languages/top/HicH987/pfe--application-for-sports-action-recognition-and-analysis-in-videos?style&color=5D6D7E" alt="GitHub top language" />
 <img src="https://img.shields.io/github/languages/code-size/HicH987/pfe--application-for-sports-action-recognition-and-analysis-in-videos?style&color=5D6D7E" alt="GitHub code size in bytes" />
