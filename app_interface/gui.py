@@ -16,7 +16,7 @@ if __name__ == "__main__":
     db_cursor = db_conn.cursor()
     
     app = QApplication(sys.argv)
-    apply_stylesheet(app, theme="dark_teal.xml")
+    apply_stylesheet(app, theme="ui/assets/custom_dark_teal.xml")
     app.setFont(CUSTOM_FONT)  # Set the default font for the app to "Poppins"
     app.setWindowIcon(QIcon("ui/assets/icon.png"))  # Set the custom icon
     app.aboutToQuit.connect(cleanup)
