@@ -27,7 +27,6 @@
 - [📍 Overview](#-overview)
 - [📂 Project Structure](#project-structure)
 - [🚀 Getting Started](#-getting-started)
-- [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 - [👏 Acknowledgments](#-acknowledgments)
 
@@ -73,67 +72,20 @@ These projects collectively provide a powerful and user-friendly solution for sp
 ```bash
 repo
 ├── app_interface
-│   ├── data
-│   │   └── database.db
-│   ├── helpers
-│   │   ├── __init__.py
-│   │   ├── face_id.py
-│   │   ├── global_vars.py
-│   │   ├── normlization.py
-│   │   ├── DeepFitClassifier.py
-│   │   ├── prediction.py
-│   │   ├── analyse.py
-│   │   └── utils.py
-│   ├── models
-│   │   ├── model_1_test.tflite
-│   │   └── model_2_test.tflite
-│   |── ui
-│   |    ├── assets
-│   |    │   ├── beep.mp3
-│   |    │   ├── custom_dark_teal.xml
-│   |    │   ├── exercises_audio/*.mp3
-│   |    │   ├── exercises_gif/*.gif
-│   |    │   ├── icon.ico
-│   |    │   ├── icon.png
-│   |    │   ├── logo.png
-│   |    │   └── tuto.json
-│   |    ├── Config.py
-│   |    ├── CustomStuffs.py
-│   |    ├── __init__.py
-│   |    ├── LoginPage.py
-│   |    ├── MainPage.py
-│   |    ├── PageController.py
-│   |    └── Tabs.py
-│   ├── gui.py
-│   ├── DeepTrain-AI.bat
-│   ├── readme.md
-│   ├── requirements.txt
+│
 └── test_model_analyze
-│   ├── helpers
-│   │   ├── global_vars.py
-│   │   ├── normlization.py
-│   │   ├── DeepFitClassifier.py
-│   │   ├── analyse.py
-│   │   └── utils.py
-│   ├── models
-│   │   ├── model_1_test.tflite
-│   │   └── model_2_test.tflite
-│   ├── main.py
-│   ├── readme.md
-│   └── requirements.txt
+│
 ├── readme.md
 
-11 directories, 71 files
 ```
 
 ---
-
 
 ## 🚀 Getting Started
 
 ### 📦 Installation
 
-1. Clone the pfe--application-for-sports-action-recognition-and-analysis-in-videos repository:
+1. Clone the `pfe--application-for-sports-action-recognition-and-analysis-in-videos` repository:
 ```sh
 git clone https://github.com/HicH987/pfe--application-for-sports-action-recognition-and-analysis-in-videos
 ```
@@ -143,7 +95,26 @@ git clone https://github.com/HicH987/pfe--application-for-sports-action-recognit
 cd pfe--application-for-sports-action-recognition-and-analysis-in-videos
 ```
 
-3. Install the dependencies:
+#### For the `app_interface` project:
+
+3. Change to the `app_interface` directory:
+```sh
+cd app_interface
+```
+
+4. Install the dependencies for the `app_interface` project:
+```sh
+pip install -r requirements.txt
+```
+
+#### For the `test_model_analyze` project:
+
+3. Change to the `test_model_analyze` directory:
+```sh
+cd test_model_analyze
+```
+
+4. Install the dependencies for the `test_model_analyze` project:
 ```sh
 pip install -r requirements.txt
 ```
@@ -156,26 +127,6 @@ python main.py
 
 ---
 
-## 🤝 Contributing
-
-Contributions are always welcome! Please follow these steps:
-1. Fork the project repository. This creates a copy of the project on your account that you can modify without affecting the original project.
-2. Clone the forked repository to your local machine using a Git client like Git or GitHub Desktop.
-3. Create a new branch with a descriptive name (e.g., `new-feature-branch` or `bugfix-issue-123`).
-```sh
-git checkout -b new-feature-branch
-```
-4. Make changes to the project's codebase.
-5. Commit your changes to your local branch with a clear commit message that explains the changes you've made.
-```sh
-git commit -m 'Implemented new feature.'
-```
-6. Push your changes to your forked repository on GitHub using the following command
-```sh
-git push origin new-feature-branch
-```
-7. Create a new pull request to the original project repository. In the pull request, describe the changes you've made and why they're necessary.
-The project maintainers will review your changes and provide feedback or merge them into the main branch.
 
 ---
 
